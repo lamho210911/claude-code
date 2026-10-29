@@ -1,0 +1,2 @@
+ollama launch claude --model gpt-oss:120b-cloud
+ollama launch claude --model gemma4:31b-cloud
