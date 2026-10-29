@@ -2,3 +2,11 @@ ollama launch claude --model gpt-oss:120b-cloud
 ollama launch claude --model gemma4:31b-cloud
 ollama launch claude --model kimi-k2.6:cloud
 ollama launch claude --model glm-5.1:cloud
+ollama launch claude --model qwen3-coder-next:cloud
+ollama launch claude --model devstral-2:123b-cloud
+ollama launch claude --model qwen3.5:397b-cloud
+ollama launch claude --model minimax-m2.7:cloud
+ollama launch claude --model minimax-m3:cloud
+ollama launch claude --model nemotron-3-super:cloud
+ollama launch claude --model glm-4.7:cloud
+ollama launch claude --model deepseek-v4-flash:cloud
